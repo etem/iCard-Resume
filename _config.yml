@@ -1,9 +1,9 @@
 # Site settings
-title: ddbullfrog's blog
-description: ddbullfrog's blog
+title: Bavarian's Blog
+description: Bavarian's professional resume
 favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: http://ddbullfrog.github.io/iCard-Resume
-url: http://ddbullfrog.github.io/iCard-Resume
+baseurl: http://etem.github.io/iCard-Resume
+url: http://etem.github.io/iCard-Resume
 rss_url: /iCard-Resume/pages/atom.xml
 
 # Build settings
@@ -11,15 +11,15 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Etem Hyusnev
+  title: Network Engineer
+  address: Sofia, Bulgaria
+  email: mr.cyberpower@gmail.com
+  link: https://etem.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: etem
+  linkedin: bavarian
+  twitter: hyusnev
   gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
     - work1:
