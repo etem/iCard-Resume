@@ -13,7 +13,7 @@ markdown: kramdown
 author:
   name: Etem Hyusnev
   title: Network Engineer
-  address: Sofia, Bulgaria
+  address: Varna, Bulgaria
   email: mr.cyberpower@gmail.com
   link: https://etem.github.io
   weibo:
@@ -53,14 +53,33 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Bulgarian
       proficiency: Native
     - language2:
+      name: Turkish
+      proficiency: Native
+    - language3:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+    - language4:
+      name: German
+      proficiency: Limited
+  programmingSkills:
+    - skill1:
+      name: HTML
+      percentage: 100%
+    - skill2:
+      name: Bootstrap
+      percentage: 90%
+    - skill3:
+      name: JavaScript
+      percentage: 80%
+    - skill4:
+      name: AngularJS
+      percentage: 80%
+    - skill5:
+      name: Java/Java EE
+      percentage: 90%
   programmingSkills:
     - skill1:
       name: HTML
