@@ -28,7 +28,7 @@ author:
       title: Network Engineer
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooing and resolving network issues.
 #    - work2:
 #      company: Agfa HealthCare
 #      location: Shanghai, China
@@ -75,26 +75,29 @@ author:
       proficiency: Limited
   programmingSkills:
     - skill1:
-      name: Python
-      percentage: 70%
+      name: Cisco Technologies
+      percentage: 80%
     - skill2:
-      name: Bash
-      percentage: 70%
+      name: System Administration
+      percentage: 80%
     - skill3:
-      name: JavaScript
+      name: MikroTiK
       percentage: 80%
     - skill4:
-      name: AngularJS
-      percentage: 80%
+      name: Wireless Networking
+      percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
-  #programmingSkills:
-#    - skill1:
-#      name: HTML
-#      percentage: 100%
-#    - skill2:
-#      name: Bootstrap
+      name: Python Programming
+      percentage: 70%
+    - skill6:
+      name: Passion
+      percentage: 100%
+#   programmingSkills:
+#     - skill1:
+#       name: HTML
+#       percentage: 100%
+#     - skill2:
+#       name: Bootstrap
 #      percentage: 90%
 #    - skill3:
 #      name: JavaScript
