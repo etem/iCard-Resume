@@ -43,14 +43,23 @@ author:
 #      started: 2009
 #      duration: (2009 - 2012)
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+#  educationHistory:
+#    - education1:
+#      organization: Cisco Networking Academy - Technical University - Varna
+#      degree: Bachelor
+#      major: Software Engineering
+#      started: 2005
+#      duration: (2005 - 2009)
+#      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Cisco Networking Academy - Technical University - Varna
+      degree: Student
+      major: Networking
+      started: 2014
+      duration: (2014 - 2015)
+      description: Successfully finished CCNA Routing and Switching course and achieved CCNA Routing and Switching certificate with License No : 420434170463DSDG.
+
   languages:
     - language1:
       name: Bulgarian
@@ -66,11 +75,11 @@ author:
       proficiency: Limited
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Python
+      percentage: 70%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Bash
+      percentage: 70%
     - skill3:
       name: JavaScript
       percentage: 80%
@@ -80,19 +89,19 @@ author:
     - skill5:
       name: Java/Java EE
       percentage: 90%
-  programmingSkills:
-    - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
-      percentage: 90%
-    - skill3:
-      name: JavaScript
-      percentage: 80%
-    - skill4:
-      name: AngularJS
-      percentage: 80%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
+  #programmingSkills:
+#    - skill1:
+#      name: HTML
+#      percentage: 100%
+#    - skill2:
+#      name: Bootstrap
+#      percentage: 90%
+#    - skill3:
+#      name: JavaScript
+#      percentage: 80%
+#    - skill4:
+#      name: AngularJS
+#      percentage: 80%
+#    - skill5:
+#      name: Java/Java EE
+#      percentage: 90%
