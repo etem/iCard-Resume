@@ -12,7 +12,7 @@ markdown: kramdown
 # Author settings
 author:
   name: Etem Hyusnev
-  title: Network Engineer
+  title: Network Support Specialist
   address: Varna, Bulgaria
   email: mr.cyberpower@gmail.com
   link: https://etem.github.io
@@ -25,7 +25,7 @@ author:
     - work1:
       company: Rutil Ltd
       location: Varna, Bulgaria
-      title: Network Engineer
+      title: Network Support Specialist
       started: 2014
       duration: (2014 - Present)
       description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooing and resolving network issues.
@@ -88,7 +88,7 @@ author:
       percentage: 70%
     - skill5:
       name: Python Programming
-      percentage: 60%
+      percentage: 50%
     - skill6:
       name: Passion
       percentage: 100%
