@@ -43,14 +43,14 @@ author:
 #      started: 2009
 #      duration: (2009 - 2012)
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-#  educationHistory:
-#    - education1:
-#      organization: Cisco Networking Academy - Technical University - Varna
-#      degree: Bachelor
-#      major: Software Engineering
-#      started: 2005
-#      duration: (2005 - 2009)
-#      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  educationHistory:
+    - education2:
+      organization: Technical University - Varna
+      degree: Bachelor
+      major: Computer Systems and Technology
+      started: 2016
+      duration: (2016 - 2020)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
       organization: Cisco Networking Academy - Technical University - Varna
