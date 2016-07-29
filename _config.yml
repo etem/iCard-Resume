@@ -6,6 +6,7 @@ baseurl: http://etem.github.io/iCard-Resume
 url: http://etem.github.io/iCard-Resume
 rss_url: /iCard-Resume/pages/atom.xml
 future : true
+encoding : UTF-8
 
 # Build settings
 markdown: kramdown
