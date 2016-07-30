@@ -1,10 +1,10 @@
 # Site settings
 title: Bavarian's Blog
 description: Bavarian's professional resume
-favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: http://etem.github.io/iCard-Resume
-url: http://etem.github.io/iCard-Resume
-rss_url: /iCard-Resume/pages/atom.xml
+favicon: /assets/img/avatar.JPG
+baseurl: https://etem.github.io/iCard-Resume
+url: https://etem.github.io/iCard-Resume
+rss_url: /pages/atom.xml
 future : true
 encoding : UTF-8
 
