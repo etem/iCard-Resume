@@ -24,6 +24,13 @@ author:
   twitter: hyusnev
   gavatar: /assets/img/avatar3.png
   workHistory:
+    - work1:
+      company: Hewlett Packard Enterprise (HPE)
+      location: Sofia, Bulgaria
+      title: Network Implementation Engineer
+      started: 2016
+      duration: (08.2016 - Present)
+#      
     - work2:
       company: Rutil Ltd
       location: Varna, Bulgaria
@@ -31,12 +38,6 @@ author:
       started: 2014
       duration: (08.2014 - 08.2016)
       description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooting and resolving network issues.
-    - work1:
-      company: Hewlett Packard Enterprise (HPE)
-      location: Sofia, Bulgaria
-      title: Network Implementation Engineer
-      started: 2016
-      duration: (08.2016 - Present)
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
 #    - work3:
 #      company: Citigroup Services and Technology (China) Limited
