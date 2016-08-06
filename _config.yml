@@ -31,12 +31,12 @@ author:
       started: 2014
       duration: (08.2014 - Present)
       description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooting and resolving network issues.
-#    - work2:
-#      company: Hewlett Packard Enterprise (HPE)
-#      location: Sofia, Bulgaria
-#      title: Network Implementation Engineer
-#      started: August 2016
-#      duration: (2016 - Present)
+    - work2:
+      company: Hewlett Packard Enterprise (HPE)
+      location: Sofia, Bulgaria
+      title: Network Implementation Engineer
+      started: August 2016
+      duration: (2016 - Present)
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
 #    - work3:
 #      company: Citigroup Services and Technology (China) Limited
