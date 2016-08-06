@@ -24,14 +24,14 @@ author:
   twitter: hyusnev
   gavatar: /assets/img/avatar3.png
   workHistory:
-    - work1:
+    - work2:
       company: Rutil Ltd
       location: Varna, Bulgaria
       title: Network Support Specialist
       started: 2014
       duration: (08.2014 - 08.2016)
       description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooting and resolving network issues.
-    - work2:
+    - work1:
       company: Hewlett Packard Enterprise (HPE)
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
