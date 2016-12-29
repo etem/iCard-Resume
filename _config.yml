@@ -37,7 +37,13 @@ author:
       title: Network Support Specialist
       started: 2014
       duration: (08.2014 - 08.2016)
-      description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooting and resolving network issues.
+      #description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooting and resolving network issues.
+      description: 
+      -Installation of new wireless networks.
+      -Network support and administration.
+      -Configuring wireless network devices.
+      -Troubleshooting and resolving network issues.
+
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
 #    - work3:
 #      company: Citigroup Services and Technology (China) Limited
