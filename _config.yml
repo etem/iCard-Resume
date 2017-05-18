@@ -7,6 +7,8 @@ url: https://etem.github.io/iCard-Resume
 rss_url: /pages/atom.xml
 future : true
 encoding : UTF-8
+#resume_path: /assets/pdf/resume.pdf
+
 
 # Build settings
 markdown: kramdown
@@ -25,13 +27,20 @@ author:
   gavatar: /assets/img/avatar3.png
   workHistory:
     - work1:
+      company: DXC Technology
+      location: Sofia, Bulgaria
+      title: Network Implementation Engineer
+      started: 2017
+      duration: (04.2017 - Present)
+
+    - work2:
       company: Hewlett Packard Enterprise (HPE)
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
       started: 2016
-      duration: (08.2016 - Present)
+      duration: (08.2016 - 04.2017)
 #      
-    - work2:
+    - work3:
       company: Rutil Ltd
       location: Varna, Bulgaria
       title: Network Support Specialist
@@ -78,13 +87,13 @@ author:
       proficiency: Limited
   programmingSkills:
     - skill1:
-      name: Cisco Technologies
-      percentage: 80%
+      name: Network engineering
+      percentage: 100%
     - skill2:
       name: System Administration
       percentage: 80%
     - skill3:
-      name: MikroTiK
+      name: Information Security
       percentage: 80%
     - skill4:
       name: Wireless Networking
