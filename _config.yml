@@ -47,7 +47,9 @@ author:
       started: 2014
       duration: (08.2014 - 08.2016)
       #description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooting and resolving network issues.
-      description: Installation of new wireless networks. Network support and administration. Configuring wireless network devices. Troubleshooting and resolving network issues.
+      description: > 
+      Installation of new wireless networks. 
+      Network support and administration. Configuring wireless network devices. Troubleshooting and resolving network issues.
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
 #    - work3:
 #      company: Citigroup Services and Technology (China) Limited
@@ -88,7 +90,7 @@ author:
   programmingSkills:
     - skill1:
       name: Network engineering
-      percentage: 100%
+      percentage: 90%
     - skill2:
       name: System Administration
       percentage: 80%
