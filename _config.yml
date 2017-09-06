@@ -15,7 +15,7 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Etem Hyusnev
+  name: <b>Etem Hyusnev</b>
   title: Network Implementation Engineer
   address: Sofia, Bulgaria
   email: mr.cyberpower@gmail.com
@@ -27,7 +27,7 @@ author:
   gavatar: /assets/img/avatar3.png
   workHistory:
     - work1:
-      company: DXC Technology
+      company: <b>DXC Technology</b>
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
       started: 2017
@@ -35,7 +35,7 @@ author:
       #description: 
 
     - work2:
-      company: Hewlett Packard Enterprise (HPE)
+      company: <b>Hewlett Packard Enterprise (HPE)</b>
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
       started: 2016
