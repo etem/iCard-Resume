@@ -27,7 +27,7 @@ author:
   gavatar: /assets/img/avatar3.png
   workHistory:
     - work1:
-      company: <b>DXC Technology</b>
+      company: DXC Technology
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
       started: 2017
@@ -35,7 +35,7 @@ author:
       #description: 
 
     - work2:
-      company: <b>Hewlett Packard Enterprise (HPE)</b>
+      company: Hewlett Packard Enterprise (HPE)
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
       started: 2016
@@ -43,7 +43,7 @@ author:
       #description:
 #      
     - work3:
-      company: <b>Rutil Ltd</b>
+      company: Rutil Ltd
       location: Varna, Bulgaria
       title: Network Support Specialist
       started: 2014
