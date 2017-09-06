@@ -32,6 +32,7 @@ author:
       title: Network Implementation Engineer
       started: 2017
       duration: (04.2017 - Present)
+      #description: 
 
     - work2:
       company: Hewlett Packard Enterprise (HPE)
@@ -39,6 +40,7 @@ author:
       title: Network Implementation Engineer
       started: 2016
       duration: (08.2016 - 04.2017)
+      #description:
 #      
     - work3:
       company: Rutil Ltd
@@ -47,7 +49,7 @@ author:
       started: 2014
       duration: (08.2014 - 08.2016)
       #description: Configuring MikroTiK wireless devices.Network support and administration.Troubleshooting and resolving network issues.
-      description: -Installation of new wireless networks.<br /> -Network support and administration.<br /> -Configuring wireless network devices.<br /> -Troubleshooting and resolving network issues.<br />
+      description: -Installation of new wireless networks.<br /> -Network support and administration.<br /> -Configuration of wireless network devices.<br /> -Troubleshooting and resolving network issues.<br />
 
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
 #    - work3:
@@ -59,7 +61,7 @@ author:
 #      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Technical University - Varna
+      organization: Technical University of Varna
       degree: Bachelor
       major: Computer Systems and Technology
       started: 2016
@@ -71,7 +73,8 @@ author:
       major: Networking
       started: 2014
       duration: (2014 - 2015)
-      description: Successfully finished CCNA Routing and Switching course and achieved CCNA Routing and Switching certificate with License No 420434170463DSDG.
+      description: 
+      Successfully finished CCNA Routing and Switching course and achieved CCNA Routing and Switching certificate with License No 420434170463DSDG.
 
   languages:
     - language1:
