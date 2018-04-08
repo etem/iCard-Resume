@@ -27,21 +27,19 @@ author:
   gavatar: /assets/img/avatar3.png
   workHistory:
     - work1:
-      company: DXC Technology
+      company: AT&T
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
-      started: 2017
-      duration: (04.2017 - Present)
+      started: 2018
+      duration: (04.2018 - Present)
       #description: 
-
-    - work2:
-      company: Hewlett Packard Enterprise (HPE)
+    - work1:
+      company: DXC Technology / Hewlett Packard Enterprise (HPE)
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
       started: 2016
-      duration: (08.2016 - 04.2017)
-      #description:
-#      
+      duration: (08.2016 - 04.2018)
+      #description:      
     - work3:
       company: Rutil Ltd
       location: Varna, Bulgaria
@@ -102,7 +100,7 @@ author:
       name: Wireless Networking
       percentage: 70%
     - skill5:
-      name: C++/Python Programming
+      name: Python/Java Programming
       percentage: 50%
     - skill6:
       name: Passion
