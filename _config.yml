@@ -18,7 +18,7 @@ author:
   name: <b>Etem Hyusnev</b>
   title: Network Implementation Engineer
   address: Sofia, Bulgaria
-  email: etem.hyusnev@gmail.com / hyusnev@pm.me
+  email: etem.hyusnev@gmail.com
   link: https://etem.github.io
   #weibo:
   github: etem
@@ -34,7 +34,7 @@ author:
       duration: (04.2018 - Present)
       #description: 
     - work1:
-      company: DXC Technology / Hewlett Packard Enterprise (HPE)
+      company: Hewlett Packard Enterprise (HPE) / DXC Technology 
       location: Sofia, Bulgaria
       title: Network Implementation Engineer
       started: 2016
@@ -97,6 +97,7 @@ author:
       name: Information Security
       percentage: 80%
     - skill4:
+Successfully finished CCNA Routing and Switching course and achieved CCNA Routing and Switching certificate with License No 420434170463DSDG.
       name: Wireless Networking
       percentage: 70%
     - skill5:
